@@ -1,5 +1,5 @@
 {
-    "name": "salimkamboh/ascii",
+    "name": "salimkamboh/ascii-table",
     "description": "printing ascii table",
     "keywords": ["ascii","salimkamboh"],
     "type": "yii2-extension",
