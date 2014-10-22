@@ -1,0 +1,20 @@
+{
+    "name": "salimkamboh/ascii",
+    "description": "printing ascii table",
+    "keywords": ["ascii","salimkamboh"],
+    "type": "yii2-extension",
+    "support": { 
+    },
+    "authors": [
+        {
+            "name": "Saleem Ahmed",
+            "email": "salimkamboh@yahoo.com",
+            "homepage": "https://github.com/salimkamboh"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "require-dev": {
+    }
+}
